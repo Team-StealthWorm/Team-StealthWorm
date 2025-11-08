@@ -1,7 +1,7 @@
 # About StealthWorm
 
 StealthWorm is more than a team — it’s a student security lab for curious hackers.
-Founded at Riphah International University (3rd semester), we’re driven by curiosity: not just to win, but to understand and break what others call unbreakable.
+Founded at Riphah International University during our 2nd semester, we are a group of hackers from batch 2024, we’re driven by curiosity: not just to win, but to understand and break what others call unbreakable.
 
 ## ⚔ Mission
 
