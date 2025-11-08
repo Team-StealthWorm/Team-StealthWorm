@@ -1,7 +1,8 @@
 # About StealthWorm
 
-StealthWorm is more than a team — it’s a student security lab for curious hackers.
-Founded at Riphah International University during our 2nd semester, we are a group of hackers from batch 2024, we’re driven by curiosity: not just to win, but to understand and break what others call unbreakable.
+**StealthWorm is more than a team** — it’s a student security lab for curious hackers.
+
+Founded at Riphah International University during our 2nd semester, we are a group of hackers from **batch 2024**, we’re driven by curiosity: not just to win, but to understand and break what others call unbreakable.
 
 ## ⚔ Mission
 
@@ -20,13 +21,13 @@ To nurture the next generation of CTF players and challenge creators at Riphah. 
 
 ## Values
 
-- Learn openly — share knowledge, not just flags.
-- Build responsibly — create challenges and tools with care.
-- Collaborate — teamwork beats lone hacking.
-- Stay curious — questions drive progress.
+- **Learn openly** — share knowledge, not just flags.
+- **Build responsibly** — create challenges and tools with care.
+- **Collaborate** — teamwork beats lone hacking.
+- **Stay curious** — questions drive progress.
 
 ## Join us
 
 Students, contributors, and curious minds welcome. Whether you want to solve, build, or teach — reach out and get involved.
 
-StealthWorm — where curiosity turns into code.
+*StealthWorm — where curiosity turns into code.*
