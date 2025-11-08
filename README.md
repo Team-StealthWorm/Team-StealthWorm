@@ -1,16 +1,32 @@
-## Hi there 👋
+# About StealthWorm
 
-<!--
-**Team-StealthWorm/Team-StealthWorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+StealthWorm is more than a team — it’s a student security lab for curious hackers.
+Founded at Riphah International University (3rd semester), we’re driven by curiosity: not just to win, but to understand and break what others call unbreakable.
 
-Here are some ideas to get you started:
+## ⚔ Mission
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+To learn, build, and share practical cybersecurity skills through hands-on CTF challenges. We grow by solving and creating challenges, documenting techniques, and helping fellow students level up.
+
+## 🌟 Vision
+
+To nurture the next generation of CTF players and challenge creators at Riphah. We aim to move from solvers to builders — turning problems into learning tools and sharing that knowledge with our community.
+
+## What we do
+
+- Solve CTF challenges across web, crypto, reversing, and forensics.
+- Build small challenge prototypes and write clear walkthroughs.
+- Run internal workshops and collaborate on research projects.
+- Maintain a friendly learning environment where curiosity leads the way.
+
+## Values
+
+- Learn openly — share knowledge, not just flags.
+- Build responsibly — create challenges and tools with care.
+- Collaborate — teamwork beats lone hacking.
+- Stay curious — questions drive progress.
+
+## Join us
+
+Students, contributors, and curious minds welcome. Whether you want to solve, build, or teach — reach out and get involved.
+
+StealthWorm — where curiosity turns into code.
