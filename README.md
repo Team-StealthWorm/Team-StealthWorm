@@ -30,4 +30,4 @@ To nurture the next generation of CTF players and challenge creators at Riphah. 
 
 Students, contributors, and curious minds welcome. Whether you want to solve, build, or teach — reach out and get involved.
 
-*StealthWorm — where curiosity turns into code.*
+*StealthWorm — where passion turns into payloads.*
